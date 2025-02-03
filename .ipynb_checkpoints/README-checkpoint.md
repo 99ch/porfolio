@@ -5,7 +5,7 @@ I’m a recent Computer Science graduate from UCAO in Cotonou. Currently, I work
 - 🌱 Software Developer (freelance)
 - 💬 Ask me about **AI, Machine Learning, Web Dev, App Dev, Compilers, Kotlin Multiplatform, etc.**
 - 📄 Know more about me: [<B>Portfolio</B>](https://drive.google.com/file/d/1fAIYKwvR5q-kPQ4o_dnx7ZnOrF90n3Kp/view?usp=drive_link)
-- 💡 Explore my [<B>linkedIn</B>](www.linkedin.com/in/chilavert-n-dah-ab5779272/)
+- 💡 Explore my [<B>linkedIn</B>](in/chilavert-ndah-ab5779272)
 - 🖼️ Watch me on [<B>youtube</B>](https://www.youtube.com/channel/UC6dVeSK8zBQGaaRE7DXA2ow)
 - 📫 Write to me at: <a href="mailto:chilavertndah99@gmail.com">chilavertndah99@gmail.com</a>
 
@@ -39,6 +39,6 @@ I’m a recent Computer Science graduate from UCAO in Cotonou. Currently, I work
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99ch&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()
 
 ## ❤ Profile Views and Followers
-![](https://komarev.com/ghpvc/?username=99ch&color=blue)
+![](in/chilavert-ndah-ab5779272)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
