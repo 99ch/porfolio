@@ -8,7 +8,6 @@ I’m a recent Computer Science graduate from UCAO in Cotonou. Currently, I work
 - 💡 Explore my [<B>linkedIn</B>](www.linkedin.com/in/chilavert-n-dah-ab5779272/)
 - 🖼️ Watch me on [<B>youtube</B>](https://www.youtube.com/channel/UC6dVeSK8zBQGaaRE7DXA2ow)
 - 📫 Write to me at: <a href="mailto:chilavertndah99@gmail.com">chilavertndah99@gmail.com</a>
-- 🎵 Loves to play basketball
 
 ## Connect with me on 👇
 <a href="www.linkedin.com/in/chilavert-n-dah-ab5779272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chilavert-n-dah-ab5779272" height="30" width="40"></a>
