@@ -41,7 +41,7 @@ I’m a recent Computer Science graduate from UCAO in Cotonou. Currently, I work
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=99ch&theme=github-dark-blue)](https://git.io/streak-stats)\
 ![Chilavert's GitHub stats](https://github-readme-stats.vercel.app/api?username=99ch&show_icons=true&theme=github_dark&hide_border=True)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99ch&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99ch&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()
 
 ## ❤ Profile Views and Followers
 ![](https://komarev.com/ghpvc/?username=99ch&color=blue)
