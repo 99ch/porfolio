@@ -12,10 +12,6 @@ I’m a recent Computer Science graduate from UCAO in Cotonou. Currently, I work
 
 ## Connect with me on 👇
 <a href="www.linkedin.com/in/chilavert-n-dah-ab5779272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chilavert-n-dah-ab5779272" height="30" width="40"></a>
-
-<a href="https://www.youtube.com/channel/UC6dVeSK8zBQGaaRE7DXA2ow" target="_blank">
-<img src="https://img.shields.io/badge/YouTube--Red" />
-</a>
 <br/> 
 
 
