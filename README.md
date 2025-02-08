@@ -4,7 +4,7 @@ I’m a recent Computer Science graduate from UCAO in Cotonou. Currently, I work
 ## :star: About Me
 - 🌱 Software Developer (freelance)
 - 💬 Ask me about **AI, Machine Learning, Web Dev, App Dev, Compilers, Kotlin Multiplatform, etc.**
-- 📄 Know more about me: [<B>Portfolio</B>](https://drive.google.com/drive/folders/1lI8KVnN6aZ6uaj7JpwG91GhEB3we0iIX?usp=drive_link)
+- 📄 Know more about me: [<B>Resume</B>](https://drive.google.com/drive/folders/1lI8KVnN6aZ6uaj7JpwG91GhEB3we0iIX?usp=drive_link)
 - 💡 Explore my [<B>linkedIn</B>](https://www.linkedin.com/in/chilavert-n-dah-ab5779272/)
 - 🖼️ Watch me on [<B>youtube</B>](https://www.youtube.com/channel/UC6dVeSK8zBQGaaRE7DXA2ow)
 - 📫 Write to me at: <a href="mailto:chilavertndah99@gmail.com">chilavertndah99@gmail.com</a>
