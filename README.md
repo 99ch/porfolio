@@ -1,5 +1,5 @@
 ## Hello everyone! I am Chilavert N'dah :)
-I’m a recent Computer Science graduate from UCAO in Cotonou. Currently, I work as a freelance Software Developer and actively contribute to various open-source projects to enhance my skills in full-stack development and cloud technologies. Outside of coding, I enjoy playing basketball, listening to music, and traveling. Feel free to explore my profile and reach out if you’d like to connect or collaborate!
+I’m a Computer Science graduate from UCAO in Cotonou. Currently, I work as a freelance Software Developer and actively contribute to various open-source projects to enhance my skills in full-stack development and cloud technologies. Outside of coding, I enjoy playing basketball, listening to music, and traveling. Feel free to explore my profile and reach out if you’d like to connect or collaborate!
 
 ## :star: About Me
 - 🌱 Software Developer (freelance)
